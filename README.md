@@ -4,7 +4,7 @@
 
 **Software Engineer**
 
-Building scalable software, AI-powered applications, and full-stack products.
+Building full-stack applications, AI-powered products, and software that solves real-world problems.
 
 <p>
 <a href="https://sonakshi-jha.vercel.app/">Portfolio</a> •
@@ -16,39 +16,39 @@ Building scalable software, AI-powered applications, and full-stack products.
 
 ---
 
-## About
+## Hello.
 
-I'm a Computer Science graduate from **VIT-AP** with a strong interest in **backend engineering**, **full-stack development**, and **artificial intelligence**.
+I'm a Computer Science graduate from **VIT-AP** with a passion for building products that are intuitive, scalable, and engineered with care.
 
-I enjoy building products that are reliable, scalable, and solve real problems. My work ranges from production-ready web applications to machine learning research and AI-powered software.
+My work spans **full-stack development**, **artificial intelligence**, and **backend engineering**—from shipping production-ready web applications to developing machine learning solutions for research.
 
-Currently focused on improving my skills in **Java**, **Spring Boot**, **Cloud**, and **System Design**.
+Currently exploring **Java**, **Spring Boot**, **Cloud**, and **System Design** while building projects that push me beyond tutorials.
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### Pixora
 
 AI-powered SaaS platform for intelligent image generation.
 
-**React • Node.js • Express • MongoDB • JWT • AI APIs**
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
 ---
 
-### Resilient Anomaly Detection & Attack Radius Inference Framework
+### Resilient Anomaly Detection Framework
 
-Machine learning framework for intrusion detection in RPL-based IoT networks.
+Machine learning framework for securing RPL-based IoT Networks.
 
-**Python • Scikit-learn • Pandas**
+`Python` • `Scikit-Learn` • `Pandas`
 
 ---
 
 ### Brain Tumor Detection
 
-IEEE-published research on deep learning for medical image classification using CNN architectures.
+IEEE-published deep learning research for medical image classification.
 
-**Python • TensorFlow • ResNet50 • VGG16**
+`CNN` • `ResNet50` • `VGG16`
 
 ---
 
@@ -56,62 +56,60 @@ IEEE-published research on deep learning for medical image classification using 
 
 REST-based URL shortening platform with analytics.
 
-**JavaScript • Node.js • MongoDB**
+`Node.js` • `MongoDB`
 
 ---
 
-## Tech Stack
+## Technologies
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
 
 </p>
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SonakshiJha25&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SonakshiJha25&show_icons=true&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiJha25&layout=compact&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiJha25&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-- Building production-ready software
-- Backend Engineering with Java
-- AI-powered applications
-- Cloud-native development
+- Building production-grade software
+- Backend Engineering
+- Artificial Intelligence
+- Cloud Technologies
 - System Design
-- Open Source
 
 ---
 
-## Beyond Code
-
-Outside of development, I enjoy exploring new technologies, reading engineering blogs, and continuously improving how I design and build software.
-
----
-
-<div align="center">
-
-*"Good software isn't just written — it's engineered."*
-
-</div>
+> *"I enjoy solving engineering problems through thoughtful software design."*
