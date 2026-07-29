@@ -1,80 +1,113 @@
-<h1 align="center">Hi 👋, I'm Sonakshi Jha</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Full Stack Developer • AI Enthusiast
-</h3>
+# Hi, I'm Sonakshi Jha 👋
 
-<p align="center">
-Building products that solve real problems with clean UI, scalable backends, and AI.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Products+That+Matter"/>
 
----
+<br>
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/sonakshi-jha/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🎓 B.Tech Computer Science
-- 💻 Passionate about Full Stack Development & AI
-- 🌱 Currently learning System Design & Cloud
-- ⚡ I enjoy turning ideas into production-ready products.
+<a href="https://sonakshi-jha.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="mailto:sonakshijha254@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)
+</div>
 
 ---
 
-## ⭐ Featured Projects
+## 👩‍💻 About Me
+
+```java
+public class Sonakshi {
+
+    String role = "Software Engineer";
+
+    String education = "B.Tech Computer Science";
+    String university = "VIT-AP";
+
+    String[] interests = {
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Backend Engineering",
+        "System Design"
+    };
+
+    String currentlyBuilding = "Pixora";
+}
+```
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎨 Pixora
-AI-powered creative platform with modern UI, authentication and intelligent features.
+AI-powered SaaS platform for image generation using React, Node.js, Express, MongoDB, JWT Authentication, and Generative AI APIs.
 
-### 🔗 URL Shortener
-Lightweight URL shortening service with analytics and clean architecture.
+### 🌐 RPL Attack Detection
+Machine Learning framework for intrusion detection and anomaly detection in IoT RPL Networks.
 
 ### 🧠 Brain Tumor Detection
-Deep Learning based MRI classification using CNN architectures.
+IEEE-published research project using CNNs, ResNet50, and VGG16 for medical image classification.
 
-### 📚 CRUD Application
-Full Stack CRUD application demonstrating REST APIs and database integration.
+### 🔗 URL Shortener
+Modern URL shortening platform with analytics and REST APIs.
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SonakshiJha25&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SonakshiJha25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiJha25&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiJha25&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
 
@@ -84,37 +117,42 @@ Full Stack CRUD application demonstrating REST APIs and database integration.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-- Build production-grade products
-- Contribute to Open Source
-- Master System Design
-- Crack a top Product Company
+- 🚀 Building production-ready full-stack applications
+- 🤖 AI-powered software
+- ☁️ Cloud & Backend Engineering
+- 📚 Data Structures & Algorithms
+- ⚙️ System Design
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Java
+Spring Boot
+Docker
+AWS
+Redis
+Kubernetes
+System Design
+```
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
+## 📈 Profile Summary
 
 <p align="center">
 
-<i>"Build things people love to use."</i>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonakshiJha25&theme=tokyonight"/>
 
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building software that creates real impact."
+
+</div>
