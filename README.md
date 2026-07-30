@@ -78,16 +78,6 @@ Four projects, four different problems. Here's the shape of each.
 
 <br/>
 
-## Numbers
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SonakshiJha25&hide_border=true&theme=chartreuse-dark" width="70%"/>
-
-</div>
-
-<br/>
-
 ## What I'm Chasing Next
 
 | | |
