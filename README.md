@@ -10,9 +10,7 @@
 
 <br/>
 
-```
-$ whoami
-```
+## About Me
 
 I'm a Computer Science graduate (VIT-AP) who likes taking software past the "it works on my machine" stage —
 into something scalable, deliberate, and a little bit stubborn about doing things right.
@@ -20,14 +18,8 @@ into something scalable, deliberate, and a little bit stubborn about doing thing
 My work sits at the intersection of **full-stack engineering**, **applied AI**, and **backend systems** —
 shipping products end-to-end, and occasionally chasing research papers on the way.
 
-```
-$ cat currently.txt
-```
-
-```
-Java · Spring Boot · Cloud · System Design
-Learning by building, not by watching tutorials.
-```
+**Currently exploring:** Java · Spring Boot · Cloud · System Design
+*Learning by building, not by watching tutorials.*
 
 <br/>
 
